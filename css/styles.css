@@ -202,8 +202,7 @@ img {
 .team {
   background: #f4f4fd;
 }
-.container-team {
-}
+
 .our-team-list {
   display: flex;
   gap: 24px;
