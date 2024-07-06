@@ -76,7 +76,6 @@ img {
 .navigation-link {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 
 .page-nav-link {
@@ -86,6 +85,7 @@ img {
   letter-spacing: 0.02em;
   font-family: "Roboto", sans-serif;
   color: #2e2f42;
+  padding: 24px 0;
 }
 .page-nav-link:hover {
   color: #404bbf;
