@@ -46,6 +46,7 @@ img {
 }
 .header-container {
   display: flex;
+  align-items: center;
 }
 .page-logo {
   font-family: "Raleway", sans-serif;
@@ -86,6 +87,7 @@ img {
   font-family: "Roboto", sans-serif;
   color: #2e2f42;
   padding: 24px 0;
+  display: block;
 }
 .page-nav-link:hover {
   color: #404bbf;
